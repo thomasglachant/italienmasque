@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    width: 100%;
+}
+
+header img {
+    width: inherit;
+    border-bottom: 10px solid grey;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 0px;
+    font-size: 5em;
+    color: red;
+}
+
+i {
+    color: #FE60FF;
+}
